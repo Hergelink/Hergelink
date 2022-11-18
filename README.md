@@ -2,7 +2,7 @@
 After creating websites in Wix, Shopify and No-Code platforms like Sharetribe<br> a project led me to learn more about web-delevopment.
 <br>Now I'm on a path to become a frontend developer.
 <br>
-<br>🔭 I’m currently working on Klevvver AI a website powered by GPT-3 for on demand text generation. 
+<br>🔭 I’m currently working on Klevvvers AI: A website powered by GPT-3 for on demand text generation. 
 <br>🌱 I’m currently learning React and making single page applications<br>
 
 
