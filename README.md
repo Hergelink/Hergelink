@@ -1,5 +1,5 @@
 # 🕴️ About Me:
-After creating websites in Wix, Shopify and No-Code platforms like Sharetribe<br>a project led me to learn more about web-delevopment.<br>Now I'm on a path to become a frontend developer.<br><br>🔭 I’m currently working on multiple GPT-3 powered micro AI apps.<br>🌱 I’m currently learning React and node.js creating single page applications.
+After creating websites in No-Code platforms like Wix, Shopify and Sharetribe<br>a project led me to learn more about web-delevopment.<br>Now I'm on a path to become a frontend developer.<br><br>🔭 I’m currently working on multiple GPT-3 powered micro AI apps.<br>🌱 I’m currently learning React and node.js creating single page applications.
 
 
 ## 🌐 Socials:
